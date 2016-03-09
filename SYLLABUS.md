@@ -1,6 +1,6 @@
 # Syllabus
 
-Also called SAP (Satuan Acara Perkuliahan).
+Also called SAP (Satuan Acara Perkuliahan). The original SAP is also included as [mmsi_sap_ppl-lanjut.pdf](docs/mmsi_sap_ppl-lanjut.pdf).
 
 ## 1. Introduction
 
