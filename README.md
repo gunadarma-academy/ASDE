@@ -19,6 +19,7 @@ Gunadarma Academy initiative presenting to have improved Advanced Software Desig
   + Set a goal or victory condition that will be fulfilled.
 + Group project-based assignment:
   + Arrange random small groups, about 3 people x 8 groups.
+  + You can uniquely name your group/team.
   + Learn upon the necessary materials to comprehend.
 
 ---
