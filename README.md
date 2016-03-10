@@ -53,3 +53,12 @@ Mainly we will talk about:
 + Presentation
   + Present the result to the class.
   + The winner will be chosen.
+
+---
+
+## References
+
++ Sommerville, I., Software Engineering, Addison-Wesley, 2011.
++ Koranne, S., Handbook of Open Source Tools, Springer, 2011.
++ Galin, D., Software Quality Assurance, Pearson, 2004.
++ Abrahamsson, P., et al, Agile software development methods, VTT Electronics, 2002
