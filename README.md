@@ -62,3 +62,5 @@ Mainly we will talk about:
 + Koranne, S., Handbook of Open Source Tools, Springer, 2011.
 + Galin, D., Software Quality Assurance, Pearson, 2004.
 + Abrahamsson, P., et al, Agile software development methods, VTT Electronics, 2002
+
++ Top 12 Software Development Methodologies and Its Advantages / Disadvantages. <http://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantagesdisadvantages>
