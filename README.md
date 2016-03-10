@@ -1,6 +1,7 @@
 # Advanced Software Design & Engineering (ASDE)
 
 Gunadarma Academy initiative presenting to have improved Advanced Software Design & Engineering (ASDE) course.
+For complete material files, see inside the Drive Folder: <http://bit.ly/ga-asde-folder>.
 
 | Facilitator       | Email                   | Website |
 |-------------------|-------------------------|---------|
