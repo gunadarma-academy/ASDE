@@ -64,3 +64,4 @@ Mainly we will talk about:
 + Abrahamsson, P., et al, Agile software development methods, VTT Electronics, 2002
 
 + Top 12 Software Development Methodologies and Its Advantages / Disadvantages. <http://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantagesdisadvantages>
++ Minimal Project Management. <http://hiltmon.com/blog/2016/03/05/minimal-project-management>
