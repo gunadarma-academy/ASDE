@@ -1,13 +1,13 @@
 # Advanced Software Design & Engineering (ASDE)
 
-Gunadarma Academy initiative presenting to have improved Advanced Software Design & Engineering (ASDE) course.
-For complete material files, see inside the Drive Folder: <http://bit.ly/ga-asde-folder>.
+Gunadarma Academy initiative presenting to have improved Advanced Software Design & Engineering (ASDE) course. This also includes System Testing and Implementation (STI) course. For complete material files, see inside the Drive Folder: <http://bit.ly/ga-asde-folder> and <http://bit.ly/ga-sti-folder>.
 
-| Facilitator       | Email                   | Website |
-|-------------------|-------------------------|---------|
-| Dr. Lulu Chaerani | lulu.chaerani@gmail.com | http://lulu.staff.gunadarma.ac.id
-| M Haidar Hanif    | me@mhaidarhanif.com     | http://mhaidarhanif.com
-| You?              | you@website.com         | http://yourname.com
+| Facilitator         | Email                   | Website |
+|---------------------|-------------------------|---------|
+| Dr. Lulu Chaerani   | lulu.chaerani@gmail.com | http://lulu.staff.gunadarma.ac.id
+| Dr. Widya Silfianti | ws1lf1@yahoo.com        | http://wsilfi.staff.gunadarma.ac.id
+| M Haidar Hanif      | me@mhaidarhanif.com     | http://mhaidarhanif.com
+| You?                | you@website.com         | http://yourname.com
 
 ---
 
@@ -64,3 +64,4 @@ Mainly we will talk about:
 + Abrahamsson, P., et al, Agile software development methods, VTT Electronics, 2002
 + Top 12 Software Development Methodologies and Its Advantages / Disadvantages. <http://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantagesdisadvantages>
 + Minimal Project Management. <http://hiltmon.com/blog/2016/03/05/minimal-project-management>
+
