@@ -1,6 +1,10 @@
 # Advanced Software Design & Engineering (ASDE)
 
+[![Join the chat at https://gitter.im/gunadarma-academy](https://badges.gitter.im/gunadarma-academy.svg)](https://gitter.im/gunadarma-academy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Gunadarma Academy initiative presenting to have improved Advanced Software Design & Engineering (ASDE) course. This also includes System Testing and Implementation (STI) course. For complete material files, see inside the Drive Folder: <http://bit.ly/ga-asde-folder> and <http://bit.ly/ga-sti-folder>.
+
+To have a real time talk, discussion, or sometimes called virtual class; [join the chat on Gitter](https://gitter.im/gunadarma-academy). It is also can be found on the badge above.
 
 | Facilitator         | Email                   | Website |
 |---------------------|-------------------------|---------|
